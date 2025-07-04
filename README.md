@@ -84,3 +84,7 @@ Practical exposure to generative AI and creative applications of deep learning.
 The ability to experiment with artistic styles and build real-world computer vision projects.
 
 Neural Style Transfer is not just a technical project — it’s an opportunity to turn AI into art. Whether you're transforming a selfie into a Van Gogh painting or adding classical textures to modern photography, NST demonstrates the beautiful blend of math, imagination, and machine intelligence.
+
+*OUTPUT*
+
+![Image](https://github.com/user-attachments/assets/a90060e7-074d-4608-9b31-311bd96eb9f6)
